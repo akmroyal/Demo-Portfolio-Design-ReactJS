@@ -33,7 +33,7 @@ Follow these steps to run the project locally:
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/akmroyal/your-repository-name.git
 
 cd Portfolio-Website
 2️⃣ Install Dependencies
