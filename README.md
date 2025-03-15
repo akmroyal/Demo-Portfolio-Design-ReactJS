@@ -18,8 +18,12 @@ This is a **React.js**-based portfolio website that showcases my skills, project
 - **Smooth Scroll & Navigation**: Enhanced user experience.
 
 ---
+## 📸**Snapshots**
+![Home](https://github.com/akmroyal/Demo-Portfolio-Design-ReactJS/blob/main/websites.png)
+---
 
 ## 🏗️ **Project Structure**
+
 📂 Portfolio-Website/ ┣ 📂 src/ ┃ ┣ 📂 components/ ┃ ┃ ┣ 📜 Footer.jsx ┃ ┃ ┣ 📜 NavBar.jsx ┃ ┃ ┣ 📜 Skills.jsx ┃ ┣ 📂 pages/ ┃ ┃ ┣ 📂 Home/ ┃ ┃ ┃ ┣ 📜 MainPage.jsx ┃ ┃ ┃ ┣ 📜 About.jsx ┃ ┃ ┃ ┣ 📜 Portfolio.jsx ┃ ┃ ┃ ┣ 📜 Slogun.jsx ┃ ┃ ┣ 📂 RouterPage/ ┃ ┃ ┃ ┣ 📜 FullAboutMe.jsx ┃ ┣ 📂 hooks/ ┃ ┃ ┣ 📜 useWrapperLoad.jsx ┃ ┣ 📜 App.jsx ┃ ┣ 📜 index.js ┣ 📜 package.json ┣ 📜 README.md
 
 ---
@@ -84,9 +88,9 @@ Submit pull requests for improvements.
 Suggest new features!
 ---
 👨‍💻 Developer: Ashutosh Maurya
-📧 Email: ashutosh.maurya2285@gmail.com
-🌐 GitHub: [akmroyal](https://github.com/akmroyal)
-🔗 LinkedIn: [Ashutosh Maurya](https://www.linkedin.com/in/ashu-maurya-9026xxxx/)
+- 📧 Email: ashutosh.maurya2285@gmail.com
+- 🌐 GitHub: [akmroyal](https://github.com/akmroyal)
+- 🔗 LinkedIn: [Ashutosh Maurya](https://www.linkedin.com/in/ashu-maurya-9026xxxx/)
 
 🎯 Happy Coding! 🚀
 
