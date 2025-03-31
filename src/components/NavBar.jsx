@@ -1,14 +1,12 @@
 import React from 'react'
 import { FaArrowRight } from 'react-icons/fa'
 import logo from '../assets/svg/logo.svg'
-import { RiDashboardFill, RiDashboardHorizontalFill } from 'react-icons/ri'
-import HamburgerMenu from './short-component/Hamburger'
 
 const NavBar = () => {
   return (
     <nav className='z-20 navbar w-screen flex justify-between items-center py-6 px-10'>
       <div className=''>
-        <div className='logo'>
+        <div className='logo cursor-pointer'>
           <span>
             <img src={logo} alt='logo' className='w-12 -rotate-30'/>
           </span>
@@ -26,7 +24,7 @@ const NavBar = () => {
         </div>
         <button className='-tracking-[0.2rem] border-3 rounded-full p-1 flex justify-between items-center gap-1.5 transition duration-300 ease-in-out hover:bg-blue-500 hover:text-gray-800'>
           <span>Contact</span>
-          <span><FaArrowRight className='text-[#3d94ff]' /></span>
+          <span><FaArrowRight className='text-[#3d94ff]'/></span>
         </button>
       </div>
     </nav>
